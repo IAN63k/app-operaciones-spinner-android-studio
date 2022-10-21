@@ -19,3 +19,6 @@
  en el TextView con el id txtV.
  
  Una vez finalizado el código, se le establece el atributo para el evento de onclick en el botón, con el fin de realizar el llamado el método _“operation”_.
+
+
+#[**APK del proyecto**]: https://github.com/IAN63k/app-operaciones-spinner-android-studio/blob/main/app-debug.apk
